@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/States/Level1State.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/TileMap/Background.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Backgrounds/Over.jpg</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/States/MenuState.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Sprites/Enemies/slugger.gif</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Enemies/Boss1.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/Mapping.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/Text.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Main/Game.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/Enemy.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/ObjectsStuff/Bounce.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/FireBall.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Sprites/Enemies/explosion.gif</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Sprites/Enemies/monsta.png</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Sprites/Enemies/enimy.png</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/States/Level2State.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Music/AudioPlayer.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/Animation.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Backgrounds/lose.jpg</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/ScoreBox.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Enemies/SnailQueen.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Enemies/Jumboo.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Sprites/Enemies/explosion_1.png</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/States/HelpState.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Sprites/Enemies/snailqueen.gif</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/States/GameState.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/ObjectsStuff/Fire.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/Player.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Sprites/Enemies/spider.gif</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Main/GamePanel.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Enemies/Badur.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/ObjectsStuff/Coin.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/Explosion.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/States/GameStateManager.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/States/Level3State.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/Resources/Tilesets/level1_map.png</file>
+            <file>file:/C:/Users/ASUS/Desktop/Yoo2/src/Entity/Object.java</file>
+        </group>
+    </open-files>
+</project-private>
